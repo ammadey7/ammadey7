@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T09:58:03.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="whbo28QGTniTNToN9aCZ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T04:48:44.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RgSPTPB-_KMyjRTJ0ZU7" version="22.0.8" type="github">
   <diagram name="Page-1" id="bCyZ8yfbj6f0R-I90FGf">
-    <mxGraphModel dx="1420" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallU;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="360" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="614" y="458" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="698" y="530" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="479.25" y="421.25" width="10" height="227.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/filesystems/pipe.png;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="280" y="228" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-16" value="4 inch pipe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="290" y="213" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-17" value="cable junction" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NETBPx4CNEGQBiJZtbOW-18" target="NETBPx4CNEGQBiJZtbOW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2.5 ft height hole from wall&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="318" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NETBPx4CNEGQBiJZtbOW-21" value="Server Room" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="331.25" width="150" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
